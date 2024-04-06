@@ -1,0 +1,30 @@
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.exe
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.deps.json
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.runtimeconfig.json
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.dll
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.pdb
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.csproj.AssemblyReference.cache
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfo.cs
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.dll
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\refint\Monopoly.dll
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.pdb
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.genruntimeconfig.cache
+C:\Users\T550\source\repos\Monopoly_jeu\Monopoly\obj\Debug\net6.0\ref\Monopoly.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.exe
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.deps.json
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.runtimeconfig.json
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\bin\Debug\net6.0\Monopoly.pdb
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.csproj.AssemblyReference.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.AssemblyInfo.cs
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\refint\Monopoly.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.pdb
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\Monopoly.genruntimeconfig.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\Pichon_Monopoly_jeu\Monopoly_jeu\Monopoly\obj\Debug\net6.0\ref\Monopoly.dll
